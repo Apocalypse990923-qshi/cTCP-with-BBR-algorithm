@@ -1,0 +1,7 @@
+{
+  "C_Cpp.dimInactiveRegions": false,
+  "files.associations": {
+    "ctcp.h": "c",
+    "ctcp_utils.h": "c"
+  }
+}
